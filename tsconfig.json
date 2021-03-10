@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "outDir": "./lib",
+      "target": "es5",
+      "module": "commonjs",
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "esModuleInterop": true,
+      "removeComments": true,
+      "declaration": true,
+      "sourceMap": true,
+      "jsx": "react",
+      "plugins": [{ "name": "typescript-plugin-css-modules" }],
+      
+    },
+    "include": [
+      "src"
+
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }

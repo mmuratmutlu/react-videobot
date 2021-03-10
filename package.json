@@ -1,0 +1,20 @@
+{
+  "name": "react-videobot",
+  "version": "1.1.0",
+  "description": "react video bot",
+  "main": "lib/videoBot.js",
+  "scripts": {
+    "build": "rm -rf ./lib && tsc"
+  },
+  "author": "mmuratmutlu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "typescript": "^4.1.5",
+    "typescript-plugin-css-modules": "^3.2.0"
+  },
+  "dependencies": {}
+}
