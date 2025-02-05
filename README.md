@@ -2,4 +2,4 @@
 
 Hi Everyone,
 
-When I complated this module . İts going to become alternative to "VideoAsk by Typeform"
+When I complate this module . İts going to become alternative to "VideoAsk by Typeform"
